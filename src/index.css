@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+@import "tailwindcss";
+
+
+
+/* 
+'jaguar': {
+  '50': '#f3f1fc',
+  '100': '#eae6f9',
+  '200': '#d9d2f3',
+  '300': '#c4b7ea',
+  '400': '#b199e0',
+  '500': '#a380d4',
+  '600': '#9567c4',
+  '700': '#8256ac',
+  '800': '#69488b',
+  '900': '#563f70',
+  '950': '#120d17',
+}, */
+
+*, #root{
+  
+  font-family: "Roboto","Poppins", sans-serif;
+  
+}
+
+body{
+  background-color: #120d17;
+  color: #f3f1fc;
+}
